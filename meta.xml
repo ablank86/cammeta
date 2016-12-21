@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Mediainfo version="0.7.91">
+<File>
+<track type="General">
+<Count>322</Count>
+<Count_of_stream_of_this_kind>1</Count_of_stream_of_this_kind>
+<Kind_of_stream>General</Kind_of_stream>
+<Kind_of_stream>General</Kind_of_stream>
+<Stream_identifier>0</Stream_identifier>
+<Inform>67.1 MiB</Inform>
+<Complete_name>C:\Users\amy\Videos\2016-10-20 001\MOV_0002.MTS</Complete_name>
+<Folder_name>C:\Users\amy\Videos\2016-10-20 001</Folder_name>
+<File_name>MOV_0002</File_name>
+<File_extension>MTS</File_extension>
+<File_size>70397952</File_size>
+<File_size>67.1 MiB</File_size>
+<File_size>67 MiB</File_size>
+<File_size>67 MiB</File_size>
+<File_size>67.1 MiB</File_size>
+<File_size>67.14 MiB</File_size>
+<Stream_size>70397952</Stream_size>
+<Stream_size>67.1 MiB (100%)</Stream_size>
+<Stream_size>67 MiB</Stream_size>
+<Stream_size>67 MiB</Stream_size>
+<Stream_size>67.1 MiB</Stream_size>
+<Stream_size>67.14 MiB</Stream_size>
+<Stream_size>67.1 MiB (100%)</Stream_size>
+<Proportion_of_this_stream>1.00000</Proportion_of_this_stream>
+<File_creation_date>UTC 2016-10-21 03:31:54.000</File_creation_date>
+<File_creation_date__local_>2016-10-20 22:31:54.000</File_creation_date__local_>
+<File_last_modification_date>UTC 2016-10-21 03:31:54.000</File_last_modification_date>
+<File_last_modification_date__local_>2016-10-20 22:31:54.000</File_last_modification_date__local_>
+</track>
+
+</File>
+</Mediainfo>
